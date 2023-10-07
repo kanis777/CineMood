@@ -1,2 +1,2 @@
 # movie-recom-with-streamlit
-At this Movie Recommendation Engine, we use algorithms to suggest personalized movie recommendations based on your genre preferences or your mood or the time period you wish it comes from . Our platform is designed to make it easy and stress-free to find the perfect movie for any occasion.
+"CineMood" is a cutting-edge movie recommendation system that combines mood-based and IMDB rating-driven algorithms to suggest personalized film choices. Built using Python, SQL, and the user-friendly Streamlit interface, it seamlessly connects with a vast movie database. "CineMood" not only streamlines movie selection but also collects valuable user feedback for continuous improvement, enhancing the cinematic experience.
